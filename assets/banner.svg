@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="480" viewBox="0 0 1600 480" role="img" aria-labelledby="title desc">
+  <title id="title">GSDS ESG Diagnostic Engine Public Showcase Banner</title>
+  <desc id="desc">A public-safe conceptual banner for GSDS ESG Diagnostic Engine with abstract shapes and high-level positioning text.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f3f0e8"/>
+      <stop offset="100%" stop-color="#dfe8e2"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#173d3a"/>
+      <stop offset="100%" stop-color="#2f6f69"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="480" fill="url(#bg)"/>
+  <circle cx="1340" cy="92" r="150" fill="#c9d8cf" opacity="0.65"/>
+  <circle cx="1460" cy="340" r="190" fill="#e7ddd0" opacity="0.85"/>
+  <rect x="84" y="72" width="760" height="336" rx="28" fill="url(#panel)"/>
+  <rect x="900" y="86" width="260" height="88" rx="18" fill="#ffffff" opacity="0.92"/>
+  <rect x="900" y="196" width="360" height="88" rx="18" fill="#ffffff" opacity="0.92"/>
+  <rect x="900" y="306" width="300" height="88" rx="18" fill="#ffffff" opacity="0.92"/>
+  <path d="M1160 130H1280" stroke="#6f8577" stroke-width="8" stroke-linecap="round"/>
+  <path d="M1260 240H1360" stroke="#6f8577" stroke-width="8" stroke-linecap="round"/>
+  <path d="M1200 350H1320" stroke="#6f8577" stroke-width="8" stroke-linecap="round"/>
+  <path d="M1160 130C1210 130 1210 240 1260 240" fill="none" stroke="#93a596" stroke-width="4" stroke-dasharray="8 10"/>
+  <path d="M1260 240C1310 240 1310 350 1200 350" fill="none" stroke="#93a596" stroke-width="4" stroke-dasharray="8 10"/>
+  <text x="132" y="168" fill="#f8f6f1" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="700">GSDS ESG Diagnostic Engine</text>
+  <text x="132" y="220" fill="#d7ebe4" font-family="Arial, Helvetica, sans-serif" font-size="22">Public Showcase Prototype</text>
+  <text x="132" y="278" fill="#f8f6f1" font-family="Arial, Helvetica, sans-serif" font-size="26">Structured ESG capability framing</text>
+  <text x="132" y="318" fill="#f8f6f1" font-family="Arial, Helvetica, sans-serif" font-size="26">Systems-oriented design approach</text>
+  <text x="132" y="358" fill="#f8f6f1" font-family="Arial, Helvetica, sans-serif" font-size="26">Reviewer-friendly public-safe presentation</text>
+  <text x="132" y="396" fill="#d7ebe4" font-family="Arial, Helvetica, sans-serif" font-size="18">Golden Silver Sustainability Strategies Co., Ltd. (GSDS)</text>
+</svg>

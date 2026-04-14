@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">GSDS ESG Diagnostic Engine Public Concept Diagram</title>
+  <desc id="desc">A high-level public-safe concept diagram showing abstract relationships between capability framing, organizational interpretation, planning support, and future productization.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f6f3ec"/>
+      <stop offset="100%" stop-color="#eef3ef"/>
+    </linearGradient>
+    <linearGradient id="core" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#19413d"/>
+      <stop offset="100%" stop-color="#2f6f69"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="900" fill="url(#bg)"/>
+  <text x="700" y="80" text-anchor="middle" fill="#1d3432" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700">GSDS ESG Diagnostic Engine</text>
+  <text x="700" y="118" text-anchor="middle" fill="#48645f" font-family="Arial, Helvetica, sans-serif" font-size="22">Public-Safe Concept Diagram</text>
+
+  <rect x="470" y="210" width="460" height="180" rx="28" fill="url(#core)"/>
+  <text x="700" y="278" text-anchor="middle" fill="#fbfaf7" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700">Public Capability Layer</text>
+  <text x="700" y="326" text-anchor="middle" fill="#d9ece6" font-family="Arial, Helvetica, sans-serif" font-size="22">Structured ESG framing for external understanding</text>
+  <text x="700" y="358" text-anchor="middle" fill="#d9ece6" font-family="Arial, Helvetica, sans-serif" font-size="20">No scoring logic. No internal rules. No proprietary core assets.</text>
+
+  <rect x="120" y="520" width="270" height="140" rx="24" fill="#ffffff" stroke="#a7b7ad" stroke-width="2"/>
+  <rect x="445" y="520" width="270" height="140" rx="24" fill="#ffffff" stroke="#a7b7ad" stroke-width="2"/>
+  <rect x="770" y="520" width="270" height="140" rx="24" fill="#ffffff" stroke="#a7b7ad" stroke-width="2"/>
+  <rect x="1095" y="520" width="185" height="140" rx="24" fill="#ffffff" stroke="#a7b7ad" stroke-width="2"/>
+
+  <text x="255" y="574" text-anchor="middle" fill="#264542" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">Capability Direction</text>
+  <text x="255" y="612" text-anchor="middle" fill="#546b66" font-family="Arial, Helvetica, sans-serif" font-size="18">High-level positioning</text>
+  <text x="255" y="638" text-anchor="middle" fill="#546b66" font-family="Arial, Helvetica, sans-serif" font-size="18">Structured public framing</text>
+
+  <text x="580" y="574" text-anchor="middle" fill="#264542" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">Organizational Interpretation</text>
+  <text x="580" y="612" text-anchor="middle" fill="#546b66" font-family="Arial, Helvetica, sans-serif" font-size="18">Systems-oriented perspective</text>
+  <text x="580" y="638" text-anchor="middle" fill="#546b66" font-family="Arial, Helvetica, sans-serif" font-size="18">Non-technical concept presentation</text>
+
+  <text x="905" y="574" text-anchor="middle" fill="#264542" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">Planning Support Concept</text>
+  <text x="905" y="612" text-anchor="middle" fill="#546b66" font-family="Arial, Helvetica, sans-serif" font-size="18">Implementation-oriented language</text>
+  <text x="905" y="638" text-anchor="middle" fill="#546b66" font-family="Arial, Helvetica, sans-serif" font-size="18">Reviewer-friendly scope only</text>
+
+  <text x="1188" y="574" text-anchor="middle" fill="#264542" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Future</text>
+  <text x="1188" y="606" text-anchor="middle" fill="#546b66" font-family="Arial, Helvetica, sans-serif" font-size="18">Productization</text>
+  <text x="1188" y="632" text-anchor="middle" fill="#546b66" font-family="Arial, Helvetica, sans-serif" font-size="18">Collaboration</text>
+
+  <path d="M700 390V470" fill="none" stroke="#7b9388" stroke-width="4" stroke-dasharray="8 10"/>
+  <path d="M700 470H255V520" fill="none" stroke="#7b9388" stroke-width="4" stroke-dasharray="8 10"/>
+  <path d="M700 470H580V520" fill="none" stroke="#7b9388" stroke-width="4" stroke-dasharray="8 10"/>
+  <path d="M700 470H905V520" fill="none" stroke="#7b9388" stroke-width="4" stroke-dasharray="8 10"/>
+  <path d="M700 470H1188V520" fill="none" stroke="#7b9388" stroke-width="4" stroke-dasharray="8 10"/>
+
+  <text x="700" y="790" text-anchor="middle" fill="#4a615d" font-family="Arial, Helvetica, sans-serif" font-size="18">Golden Silver Sustainability Strategies Co., Ltd. (GSDS)</text>
+  <text x="700" y="820" text-anchor="middle" fill="#6d817d" font-family="Arial, Helvetica, sans-serif" font-size="16">Conceptual illustration only. Public showcase layer only.</text>
+</svg>
