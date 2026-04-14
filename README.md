@@ -1,7 +1,11 @@
 # GSDS ESG Diagnostic Engine
 
 <p align="center">
-  <strong>Public Showcase Prototype</strong><br>
+  <img src="assets/banner.svg" alt="GSDS ESG Diagnostic Engine banner" />
+</p>
+
+<p align="center">
+  <strong>Public Showcase Layer</strong><br>
   A structured ESG capability layer for practical diagnosis, implementation planning, and impact-oriented decision support.
 </p>
 
